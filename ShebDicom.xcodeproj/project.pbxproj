@@ -9,12 +9,14 @@
 /* Begin PBXFileReference section */
 		622A75382F17DDF4006F5671 /* DicomViewer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = DicomViewer.xcodeproj; path = ../DicomViewer/DicomViewer.xcodeproj; sourceTree = SOURCE_ROOT; };
 		622A75462F17E3AE006F5671 /* MyLibrary */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = MyLibrary; path = ../MyLibrary; sourceTree = SOURCE_ROOT; };
+		622A755A2F18C6C1006F5671 /* DicomRendering */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = DicomRendering; path = ../DicomRendering; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		622A74FB2F17DBB2006F5671 = {
 			isa = PBXGroup;
 			children = (
+				622A755A2F18C6C1006F5671 /* DicomRendering */,
 				622A75462F17E3AE006F5671 /* MyLibrary */,
 				622A75382F17DDF4006F5671 /* DicomViewer.xcodeproj */,
 			);
